@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 👤 Lissa Telles Chaves
+# 📖 Third-year Student at the University of Notre Dame
+📫 How to reach me: ltelles2@nd.edu
+⚡ Fun fact: I am originally from Brazil, and I have worked in Brazil, the US and Hong Kong. 
+
+# Tech toolbox 🦾
+  - Languages: Python & MatLab
+  - Libraries & frameworks: Numpy, Pandas, Matplotlib, Seaborn
+
 <!--
 **lissa-telles-chaves/lissa-telles-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
