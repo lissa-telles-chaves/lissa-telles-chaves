@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-## 👤 Lissa Telles Chaves
+# 👤 Lissa Telles Chaves
 # 📖 Third-year Student at the University of Notre Dame
 📫 How to reach me: ltelles2@nd.edu
 ⚡ Fun fact: I am originally from Brazil, and I have worked in Brazil, the US and Hong Kong. 
 
-# Tech toolbox 🦾
+## Tech toolbox 🦾
   - Languages: Python & MatLab
   - Libraries & frameworks: Numpy, Pandas, Matplotlib, Seaborn
 
