@@ -1,5 +1,7 @@
 ## Hi there 👋
-# 👤 Lissa Telles Chaves
+# 👤 Lissa Telles Chaves 
+[6E082141-00C5-40F8-B272-94054A3E7CD6_1_201_a](https://github.com/user-attachments/assets/a5ed28e7-1b26-4d97-9d68-957a22a7dbc3)
+
 📫 How to reach me: 
  - email: ltelles2@nd.edu
  - LinkedIn: www.linkedin.com/in/lissa-telles-chaves-48668a28a
@@ -7,13 +9,13 @@
 
 # 📖 Third-year Student at the University of Notre Dame
   -  Major: Marketing
-  -  Minors: Computing and Digital Technologies, Collaborative Innovation
+  -  Minors: Computing and Digital Technologies, Collaborative Innovation!
 
 ## Tech toolbox 🦾
   - Languages: Python, MatLab, R
   - Libraries & frameworks: Numpy, Pandas, Matplotlib, Seaborn
 ## Goals 🥅
-By the end of the semester, I hope to bring all these skills together in a **comprehensive final project**, building a multi-feature application that showcases data visualization, processing, and machine learning to solve a real-world challenge. To achieve this goal, I first must:
+By the end of the semester, I hope to make a **comprehensive final project**, building a multi-feature application that showcases data visualization, processing, and machine learning to solve a real-world challenge. To achieve this goal, I first must:
 - **OOP:** Refine my knowedlege of object-oriented programming.
 - **data visualization and storytelling:**  transitioning from static charts to interactive dashboards using Streamlit. I want to learn how to present data effectively through filtering, sorting, and narrative techniques.  
 
