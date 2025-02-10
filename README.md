@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 👤 Lissa Telles Chaves 
-[6E082141-00C5-40F8-B272-94054A3E7CD6_1_201_a](https://github.com/user-attachments/assets/a5ed28e7-1b26-4d97-9d68-957a22a7dbc3)
+![alt text](6E082141-00C5-40F8-B272-94054A3E7CD6_1_201_a.jpeg)
 
 📫 How to reach me: 
  - email: ltelles2@nd.edu
