@@ -1,7 +1,6 @@
 ## Hi there 👋
 # 👤 Lissa Telles Chaves 
 ![alt text](6E082141-00C5-40F8-B272-94054A3E7CD6_1_201_a.jpeg)
-
 📫 How to reach me: 
  - email: ltelles2@nd.edu
  - LinkedIn: www.linkedin.com/in/lissa-telles-chaves-48668a28a
