@@ -13,8 +13,10 @@
 ## Tech toolbox 🦾
   - Languages: Python, MatLab, R
   - Libraries & frameworks: Numpy, Pandas, Matplotlib, Seaborn
+
 ## Goals 🥅
-By the end of the semester, I hope to make a **comprehensive final project**, building a multi-feature application that showcases data visualization, processing, and machine learning to solve a real-world challenge. To achieve this goal, I first must:
+### January - May 2025
+By the end of the first semester, I hope to make a **comprehensive final project**, building a multi-feature application that showcases data visualization, processing, and machine learning to solve a real-world challenge. To achieve this goal, I first must:
 - **OOP:** Refine my knowedlege of object-oriented programming.
 - **data visualization and storytelling:**  transitioning from static charts to interactive dashboards using Streamlit. I want to learn how to present data effectively through filtering, sorting, and narrative techniques.  
 
@@ -25,18 +27,5 @@ By the end of the semester, I hope to make a **comprehensive final project**, bu
 - **text and image processing:** using NLP tools like NLTK and SpaCy for sentiment analysis and text processing, along with OpenCV and Pillow for image-related tasks.  
 - **foundational machine learning concepts:** training models using scikit-learn, and integrating them into interactive applications while considering ethical implications.  
 
-
-<!--
-**lissa-telles-chaves/lissa-telles-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects: 
+ - Check out my python portfolio, where I accomplished my goals for the Spring 25: https://github.com/lissa-telles-chaves/TELLES-Python-Portfolio
