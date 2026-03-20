@@ -2,11 +2,11 @@
 # 👤 Lissa Telles Chaves 
 ![alt text](6E082141-00C5-40F8-B272-94054A3E7CD6_1_201_a.jpeg)
 📫 How to reach me: 
- - email: ltelles2@nd.edu
+ - email: ltelles2@nd.edu | lissatchaves@gmail.com
  - LinkedIn: www.linkedin.com/in/lissa-telles-chaves-48668a28a
 ⚡ Fun fact: I am originally from Brazil, and I have worked in Brazil, the US and Hong Kong. 
 
-# 📖 Third-year Student at the University of Notre Dame
+# 📖 Fourth-year Student at the University of Notre Dame
   -  Major: Marketing
   -  Minors: Computing and Digital Technologies, Collaborative Innovation!
 
@@ -15,6 +15,9 @@
   - Libraries & frameworks: Numpy, Pandas, Matplotlib, Seaborn
 
 ## Goals 🥅
+### August - December 2025
+by the end of this semester, I hope to understand how LLM works comprehensively and create my own Retrieval-Augmented Generation (RAG) Assistant.
+
 ### January - May 2025
 By the end of the first semester, I hope to make a **comprehensive final project**, building a multi-feature application that showcases data visualization, processing, and machine learning to solve a real-world challenge. To achieve this goal, I first must:
 - **OOP:** Refine my knowedlege of object-oriented programming.
@@ -28,4 +31,6 @@ By the end of the first semester, I hope to make a **comprehensive final project
 - **foundational machine learning concepts:** training models using scikit-learn, and integrating them into interactive applications while considering ethical implications.  
 
 ## Recent Projects: 
+ - Check out my python portfolio, where I accomplished my goals for the Fall 25:[ https://github.com/lissa-telles-chaves/TELLES-Python-Portfolio](https://github.com/lissa-telles-chaves/RAG-Assistant)
  - Check out my python portfolio, where I accomplished my goals for the Spring 25: https://github.com/lissa-telles-chaves/TELLES-Python-Portfolio
+
