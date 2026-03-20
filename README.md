@@ -32,5 +32,5 @@ By the end of the first semester, I hope to make a **comprehensive final project
 
 ## Recent Projects: 
  - Check out my python portfolio, where I accomplished my goals for the Fall 25:[ https://github.com/lissa-telles-chaves/TELLES-Python-Portfolio](https://github.com/lissa-telles-chaves/RAG-Assistant)
- - Check out my python portfolio, where I accomplished my goals for the Spring 25: https://github.com/lissa-telles-chaves/TELLES-Python-Portfolio
+ - Check out my python portfolio, where I accomplished my goals for the Spring 25: [https://github.com/lissa-telles-chaves/TELLES-Python-Portfolio](https://github.com/lissa-telles-chaves/Telles_python_portfolio)
 
