@@ -1,13 +1,13 @@
 ## Hi there 👋
-# 👤 Lissa Telles Chaves 
 ![alt text](6E082141-00C5-40F8-B272-94054A3E7CD6_1_201_a.jpeg)
+# 👤 Lissa Telles Chaves 
 📫 How to reach me: 
  - email: ltelles2@nd.edu | lissatchaves@gmail.com
  - LinkedIn: www.linkedin.com/in/lissa-telles-chaves-48668a28a
 ⚡ Fun fact: I am originally from Brazil, and I have worked in Brazil, the US and Hong Kong. 
 
-# 📖 Fourth-year Student at the University of Notre Dame
-  -  Major: Marketing
+# Alumn from the University of Notre Dame 🎓
+  -  Bachelor in Business Administration, Marketing
   -  Minors: Computing and Digital Technologies, Collaborative Innovation!
 
 ## Tech toolbox 🦾
